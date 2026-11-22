@@ -1,0 +1,6 @@
+{
+  "name": "ReturnShield AI",
+  "description": "Reliable Refund Investigation Agent with Deterministic Policy Gate and Automated Edge-Case Test Runner",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
